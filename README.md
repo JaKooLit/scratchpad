@@ -3,7 +3,7 @@
 ## 💌 ** KooL-DotFiles ** 💌
 #### Hyprland Configurations / Dotfiles
 
-![GitHub Repo stars](https://img.shields.io/github/stars/JaKooLit/Hyprland-Dots?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/JaKooLit/Hyprland-Dots?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/JaKooLit/Hyprland-Dots?style=for-the-badge&color=cba6f7)
+![GitHub Repo stars](https://img.shields.io/github/stars/JaKooLit/Hyprland-Dots?style=for-the-badge&color=cba6f7) ![GitHub last commit](https://img.shields.io/github/last-commit/JaKooLit/Hyprland-Dots?style=for-the-badge&color=b4befe) ![GitHub repo size](https://img.shields.io/github/repo-size/JaKooLit/Hyprland-Dots?style=for-the-badge&color=cba6f7) <a href="https://discord.gg/V2SJ92vbEN"> <img src="https://img.shields.io/discord/1151869464405606400?style=for-the-badge&logo=discord&label=KooLit's%20Tech%20World&labelColor=89b4fa&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%2V2SJ92vbEN"> </a>
 
 <br/>
 </div>
@@ -18,9 +18,7 @@
 </div><br>
 
 <div align = center>
-    <a href="https://discord.gg/V2SJ92vbEN">
-        <img src="https://img.shields.io/discord/1151869464405606400?style=for-the-badge&logo=discord&label=KooLit's%20Tech%20World&labelColor=89b4fa&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%2V2SJ92vbEN">
-    </a>
+    
 </div>
 
 <div align="center">
