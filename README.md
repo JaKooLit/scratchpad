@@ -15,15 +15,15 @@
   <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki"><kbd> <br> Wiki <br> </kbd></a>&ensp;&ensp;
   <a href="https://github.com/JaKooLit/Hyprland-Dots/wiki/Keybinds"><kbd> <br> Keybinds <br> </kbd></a>&ensp;&ensp;
   <a href="https://discord.gg/V2SJ92vbEN"><kbd> <br> Discord <br> </kbd></a>
-</div><br><br>
+</div><br>
 
 <div align = center>
     <a href="https://discord.gg/V2SJ92vbEN">
         <img src="https://img.shields.io/discord/1151869464405606400?style=for-the-badge&logo=discord&label=KooLit's%20Tech%20World&labelColor=89b4fa&color=cba6f7&link=https%3A%2F%2Fdiscord.gg%2V2SJ92vbEN">
     </a>
 </div>
-<div align="center">
 
+<div align="center">
 
 ## SHOW CASE
 
